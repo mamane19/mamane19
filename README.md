@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **moussabello19@gmail.com**
 
-- ⚡ Fun fact: **My energy drink is `*Milk*` :)**
+- ⚡ Fun fact: **My energy drink is *`Milk`* :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
