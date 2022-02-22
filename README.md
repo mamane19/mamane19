@@ -31,4 +31,5 @@
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamane19&" alt="mamane19" />
+<a href="https://app.daily.dev/mamane19"><img src="https://api.daily.dev/devcards/c7500ee4c9f647b98643ad20d7f98857.png?r=97v" width="400" alt="Mamane Bello 's Dev Card"/></a>
 </p>
