@@ -24,6 +24,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bello-moussa-amadou-210653192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bello-moussa-amadou-210653192/" height="30" width="40" /></a>
 <a href="https://instagram.com/imamane19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mamane19" height="30" width="40" /></a>
 </p>
+<p align="right"> 
+  <a href="https://app.daily.dev/mamane19"><img src="https://api.daily.dev/devcards/c7500ee4c9f647b98643ad20d7f98857.png?r=97v" width="400" alt="Mamane Bello 's Dev Card"/></a>
+</p>
 
 <p align= "left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamane19&show_icons=true&locale=en" alt="mamane19" />
@@ -32,4 +35,3 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamane19&" alt="mamane19" />
 </p>
-<a href="https://app.daily.dev/mamane19"><img src="https://api.daily.dev/devcards/c7500ee4c9f647b98643ad20d7f98857.png?r=97v" width="400" alt="Mamane Bello 's Dev Card"/></a>
