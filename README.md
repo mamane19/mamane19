@@ -16,9 +16,6 @@
 - 📫 How to reach me **moussabello19@gmail.com**
 
 - ⚡ Fun fact: **My energy drink is *`Milk`* :)**
-<p align="right"> 
-  <a href="https://app.daily.dev/mamane19"><img src="https://api.daily.dev/devcards/c7500ee4c9f647b98643ad20d7f98857.png?r=97v" width="400" alt="Mamane Bello 's Dev Card"/></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
