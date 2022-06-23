@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
-- 💬 Ask me about [NodeJS](https://nodejs.org), [TypeScript](https://www.typescriptlang.org/), and [Python](https://www.python.org/)
+- 💬 Ask me about [NestJS](https://nodejs.org), [TypeScript](https://www.typescriptlang.org/), and [Python](https://www.python.org/)
 
 - 📫 How to reach me **moussabello19@gmail.com**
 
