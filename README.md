@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DSA Questions](https://github.com/mamane19/interview-prep-dsa)
 
-- 🌱 I’m currently learning **Distributed Systems**
+- 🌱 I’m currently learning **Kubernetes** and **GoLang**
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
