@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mamane19
-### I am a junior at the African Leadership University
+### I am a Software Engineer by heart and a TPM by details
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamane19&label=Profile%20views&color=0e75b6&style=flat" alt="mamane19" /> </p>
