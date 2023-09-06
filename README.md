@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamane19&label=Profile%20views&color=0e75b6&style=flat" alt="mamane19" /> </p>
 
 
-- 🔭 I’m currently working on [DSA Questions](https://github.com/mamane19/interview-prep-dsa)
+- 🔭 I’m currently working on yet another `startup` -- Stay Tuned
 
 - 🌱 I’m currently learning **Kubernetes** and **GoLang**
 
