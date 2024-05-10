@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on yet another `startup` -- Stay Tuned
 
-- 🌱 I’m currently learning **Kubernetes** and **GoLang**
+- 🌱 I’m currently diving into **Kubernetes** and **Data Engineering**
 
-- 👯 I’m looking to collaborate on **back-end projects**
+- 👯 I’m looking to collaborate on **back-end projects** and **infrastructure**
 
 - 💬 Ask me about [NestJS](https://nestjs.com/), [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), and [Linux](https://www.linux.org/)
 
-- 📫 How to reach me **moussabello19@gmail.com**
+- 📫 How to reach me **moussabello19@gmail.com** or any of my socials below. Don't be a stranger, say hi :)
 
 - ⚡ Fun fact: **My energy drink is *`Milk`* :)**
 
